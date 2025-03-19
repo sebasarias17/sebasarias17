@@ -25,8 +25,8 @@
 </p>
 <div>
   <p align="center">
-    <a href="www.linkedin.com/in/sebastian-arias-usma-24a47b234">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
+    <a href="https://www.linkedin.com/in/sebastian-arias-usma-24a47b234" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn de Sebastián Arias" />
     </a>
   </p>
 <div/>
@@ -49,5 +49,4 @@
 
 <div align="center">
 <img src = "https://github-profile-trophy.vercel.app/?username=sebasarias17&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
-<img src = "https://visitcount.itsvg.in/api?id=sebasarias17&icon=3&color=8" />
 </div>
